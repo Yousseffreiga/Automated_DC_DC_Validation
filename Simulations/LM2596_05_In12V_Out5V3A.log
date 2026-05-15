@@ -1,0 +1,4 @@
+Circuit: * C:\Users\youss\Documents\Projects\DC-DC Validation\LM2596_05_In12V_Out5V3A.asc
+
+Fatal Error: U1:x8:x1:isink: requires a minimum of 5 parameters.  Only 4 specified.
+
